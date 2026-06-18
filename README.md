@@ -11,8 +11,9 @@ Un utilisateur signale qu'il ne parvient plus à imprimer sur l'imprimante rése
 ## Diagnostic
 
 ### 1. Vérification de la connectivité réseau
-'''text id="pingprinter"
+'''text
 ping 192.168.1.50
+'''
 
 Résultat : 
 * Réponse KO -> problème réseau OU imprimante hors ligne
