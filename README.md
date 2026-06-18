@@ -19,10 +19,12 @@ Résultat :
 * Réponse KO -> problème réseau OU imprimante hors ligne
 
 ### 2. Vérification de l'accès à l'imprimante
-
+Tentative d'accès à l'interface web de l'imprimante :
+```text
 http://192.168.1.50
+```
 
-Observation :
+**Observation :**
 * Interface web inaccessible
 
 ### 3. Vérification du spooler d'impression (poste client)
